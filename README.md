@@ -1,3 +1,8 @@
+## Account for testing:
+
+Email : demo@example.com
+Password: demopassword
+
 ## Running the project
 
 To run the project, follow these steps.
